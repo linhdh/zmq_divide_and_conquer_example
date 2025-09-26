@@ -1,5 +1,7 @@
 # Divide and Conquer
 
+![Parallel Pipeline](/images/fig58.png)
+
 As a final example (you are surely getting tired of juicy code and want to delve back into philological discussions about comparative abstractive norms), let’s do a little supercomputing. Then coffee. Our supercomputing application is a fairly typical parallel processing model. We have:
 
 - A ventilator that produces tasks that can be done in parallel
